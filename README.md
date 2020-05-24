@@ -3,7 +3,7 @@
 
 &nbsp;&nbsp; 
 
-* 1、[About](01-about)（项目概况）
+* 1、[About](01-about.md)（项目概况）
 * 2、[Team profile](02-team-profile)（团队组建与分工）
 * 3、[Investigation](03-invest)（项目前期调研/竞品分析）
 * 4、[Vision](04-vision)（项目愿景）
